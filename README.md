@@ -4,6 +4,8 @@
 
 In this unit I am tasked to choose a dataset from Kaggle, clean it in VSCode and create a chart.
 
+I have also chose to research into digital marketing as it matches my interest and give me insight into that career aspect.
+
 ## Project Overview
 * Finding datasets on Kaggle.
 * Cleaning the dataset.
