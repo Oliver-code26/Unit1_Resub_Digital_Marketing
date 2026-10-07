@@ -4,11 +4,7 @@
 
 In this unit I am tasked to choose a dataset from Kaggle, clean it in VSCode and create a chart.
 
-<<<<<<< HEAD
 I have chose Online Advertising Performance because I have an interest in marketing and this dataset appealed to me. Due to having three campaigns I think it would be interesting to discover which is more appealing in the online environment.
-=======
-I have also chose to research into digital marketing as it matches my interest and give me insight into that career aspect.
->>>>>>> 01a37643cc95fca997aa4696863a99c37452a176
 
 ## Project Overview
 * Finding datasets on Kaggle.
